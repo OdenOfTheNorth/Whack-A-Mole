@@ -5,6 +5,7 @@ var colorMode = {Default: 0, HighLight: 1, PressedWrong: 2, Skull: 3, Golden: 4,
 var defaultColor = {White: 0, Red: 1, Empty: 2};
 //var missedPixType = {Ignore: 0, MinusScore: 1, ResetCombo: 2, MinusScoreAndResetCombo: 3};
 /*
+    Lose inspiration for effects
     https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/
     https://store.steampowered.com/app/531510/Just_Shapes__Beats/
     https://store.steampowered.com/app/1926210/EZ2ON_REBOOT__R__PRESTIGE_PASS/
